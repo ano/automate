@@ -68,7 +68,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/chrome_2018-01-29_09-34-48-1400x756.png",
+              "src": "@PROJECT_PATH@/assets/images/chrome-2018-01-29-09-34-48-1400x756.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -86,7 +86,7 @@
             }
           },
           "title": "Automate",
-          "text": "Automate is a tool that lets you automate your processes. <br>With it you can design and manage automation workflows between different applications without writing any code.",
+          "text": "Automate is a tool that lets you connect and automate applications.&nbsp;With it you can design and manage automation workflows between these applications without writing any code.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.dropbox.com/s/fu60hjvbxlch4dj/Install-FFA-Automation-System-win32-x64-1.0.0-win32-x64.exe?dl=1\" data-toolbar=\"-mbrBtnMove\">Download for Windows</a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"index.html#msg-box5-b\" data-toolbar=\"-mbrBtnMove\">Learn More</a>",
           "_tags": [
             "Theme"
@@ -224,7 +224,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ffa-automation-system_2018-01-31_12-24-51-978x1031.png",
+              "src": "@PROJECT_PATH@/assets/images/ffa-automation-system-2018-01-31-12-24-51-978x1031.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -276,7 +276,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ffa-automation-system_2018-01-31_12-29-19-1400x818.png",
+              "src": "@PROJECT_PATH@/assets/images/ffa-automation-system-2018-01-31-12-29-19-1400x818.png",
               "link": "",
               "alt": "",
               "title": ""
